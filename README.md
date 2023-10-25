@@ -1,4 +1,4 @@
-# **Proposal of an advanced deep learning model and its performance evaluation for real-time Vespa detection**
+# **Proposal of an advanced YOLOX model for real-time Vespa detection**
 
 ![123그림1](https://github.com/Kwon-YJ/temp123/assets/49362903/bf700e35-077b-4aad-a7e7-bfda4c70019a)
 
