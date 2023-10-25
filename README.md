@@ -36,15 +36,4 @@ python3 tools/test.py configs/yolox/yolox_x_8xb8-300e_coco.py work_dirs/yolox_x_
 ## LICENSE
 This codebase is released under MIT License.
 
-## Citation
-If you find our work useful, please consider citing us!
-```
-@misc{githubGitHubKwonYJtemp123,
-	author = {},
-	title = {{G}it{H}ub - {K}won-{Y}{J}/temp123 --- github.com},
-	howpublished = {\url{https://github.com/Kwon-YJ/temp123}},
-	year = {},
-	note = {[Accessed 25-10-2023]},
-}
-```
 Disclaimer: This project is strictly for research purposes, and not an official product from NVIDIA.
