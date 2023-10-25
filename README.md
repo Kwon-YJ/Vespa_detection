@@ -6,7 +6,7 @@ This paper introduces a new advanced YOLOX model for real-time Vespa monitoring 
 
 ## Installation
 
-- we only tested
+- we only tested in torch 2.0.1, CUDA 12.1, cuDNN 8.9.2, Docker 24.0.2(cb74dfc)
 
 - Download docker file : https://drive.google.com/file/d/1frf_khaO7FhViVYDkr4g4Er_6C9fLhgR/view?usp=drive_link
 
