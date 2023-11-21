@@ -13,7 +13,7 @@ This paper introduces a new advanced YOLOX model for real-time Vespa monitoring 
 ```bash
 xz -d shuffle_yolox_lite.tar.xz
 docker load -i shuffle_yolox_lite.tar
-docker run -it <tag>
+docker run -it --gpus shuffle_yolox_lite:latest
 ```
 
 ## Usage
